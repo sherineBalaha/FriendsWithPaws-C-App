@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0C14AFC-B751-43B9-BF6E-4EBA2E6A825A}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FriendsWithPaws</RootNamespace>
+    <AssemblyName>FriendsWithPaws</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>FriendsWithPaws_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\ListConverter.cs" />
+    <Compile Include="DataModel\BreedDataSource.cs" />
+    <Compile Include="GroupedItemsPage.xaml.cs">
+      <DependentUpon>GroupedItemsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GroupDetailPage.xaml.cs">
+      <DependentUpon>GroupDetailPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDetailPage.xaml.cs">
+      <DependentUpon>ItemDetailPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Common\BindableBase.cs" />
+    <Compile Include="Common\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Common\BooleanNegationConverter.cs" />
+    <Compile Include="Common\LayoutAwarePage.cs" />
+    <Compile Include="Common\RichTextColumns.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="Common\ReadMe.txt" />
+    <None Include="FriendsWithPaws_TemporaryKey.pfx" />
+    <None Include="Images\Large Breeds\Thumbs.db" />
+    <None Include="Images\Medium Breeds\Thumbs.db" />
+    <None Include="Images\Small Breeds\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\group_detail.PNG" />
+    <Content Include="Assets\Logo.png" />
+    <Content Include="Assets\SmallLogo.png" />
+    <Content Include="Assets\SplashScreen.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\LightGray.png" />
+    <Content Include="Assets\MediumGray.png" />
+    <Content Include="Assets\DarkGray.png" />
+    <Content Include="Assets\wideLogo.PNG" />
+    <Content Include="Data\Dogs.txt" />
+    <Content Include="Images\group_detail.PNG" />
+    <Content Include="Images\Large Breeds\dalmatian.jpg" />
+    <Content Include="Images\Large Breeds\dalmatian_1.jpg" />
+    <Content Include="Images\Large Breeds\dalmatian_2.jpg" />
+    <Content Include="Images\Large Breeds\dobermanPinscher.jpg" />
+    <Content Include="Images\Large Breeds\dobermanPinscher_1.jpg" />
+    <Content Include="Images\Large Breeds\dobermanPinscher_2.jpg" />
+    <Content Include="Images\Large Breeds\germanShepherd.jpg" />
+    <Content Include="Images\Large Breeds\germanShepherd_1.jpg" />
+    <Content Include="Images\Large Breeds\germanShepherd_2.jpg" />
+    <Content Include="Images\Large Breeds\goldenRetriever.jpg" />
+    <Content Include="Images\Large Breeds\goldenRetriever_1.jpg" />
+    <Content Include="Images\Large Breeds\goldenRetriever_2.jpg" />
+    <Content Include="Images\Large Breeds\greatDane.jpg" />
+    <Content Include="Images\Large Breeds\greatDane_1.jpg" />
+    <Content Include="Images\Large Breeds\greatDane_2.jpg" />
+    <Content Include="Images\Large Breeds\irishSetter.jpg" />
+    <Content Include="Images\Large Breeds\irishSetter_1.jpg" />
+    <Content Include="Images\Large Breeds\irishSetter_2.jpg" />
+    <Content Include="Images\Medium Breeds\australianShepherd.jpg" />
+    <Content Include="Images\Medium Breeds\australianShepherd_1.jpg" />
+    <Content Include="Images\Medium Breeds\australianShepherd_2.jpg" />
+    <Content Include="Images\Medium Breeds\bassetHound.jpg" />
+    <Content Include="Images\Medium Breeds\bassetHound_1.jpg" />
+    <Content Include="Images\Medium Breeds\bassetHound_2.jpg" />
+    <Content Include="Images\Medium Breeds\borderCollie.jpg" />
+    <Content Include="Images\Medium Breeds\borderCollie_1.jpg" />
+    <Content Include="Images\Medium Breeds\borderCollie_2.jpg" />
+    <Content Include="Images\Medium Breeds\bulldog.jpg" />
+    <Content Include="Images\Medium Breeds\bulldog_1.jpg" />
+    <Content Include="Images\Medium Breeds\bulldog_2.jpg" />
+    <Content Include="Images\Medium Breeds\sharPei.jpg" />
+    <Content Include="Images\Medium Breeds\sharPei_1.jpg" />
+    <Content Include="Images\Medium Breeds\sharPei_2.jpg" />
+    <Content Include="Images\Medium Breeds\springerSpaniel.jpg" />
+    <Content Include="Images\Medium Breeds\springerSpaniel_1.jpg" />
+    <Content Include="Images\Medium Breeds\springerSpaniel_2.jpg" />
+    <Content Include="Images\Small Breeds\beagle.jpg" />
+    <Content Include="Images\Small Breeds\beagle_1.jpg" />
+    <Content Include="Images\Small Breeds\beagle_2.jpg" />
+    <Content Include="Images\Small Breeds\dachshund.jpg" />
+    <Content Include="Images\Small Breeds\dachshund_1.jpg" />
+    <Content Include="Images\Small Breeds\dachshund_2.jpg" />
+    <Content Include="Images\Small Breeds\jackRussellTerrier.jpg" />
+    <Content Include="Images\Small Breeds\jackRussellTerrier_1.jpg" />
+    <Content Include="Images\Small Breeds\jackRussellTerrier_2.jpg" />
+    <Content Include="Images\Small Breeds\pug.jpg" />
+    <Content Include="Images\Small Breeds\pug_1.jpg" />
+    <Content Include="Images\Small Breeds\pug_2.jpg" />
+    <Content Include="Images\Small Breeds\westHighlandWhiteTerrier.jpg" />
+    <Content Include="Images\Small Breeds\westHighlandWhiteTerrier_1.jpg" />
+    <Content Include="Images\Small Breeds\westHighlandWhiteTerrier_2.jpg" />
+    <Content Include="Images\Small Breeds\yorkshireTerrier.jpg" />
+    <Content Include="Images\Small Breeds\yorkshireTerrier_1.jpg" />
+    <Content Include="Images\Small Breeds\yorkshireTerrier_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GroupedItemsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GroupDetailPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ItemDetailPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
