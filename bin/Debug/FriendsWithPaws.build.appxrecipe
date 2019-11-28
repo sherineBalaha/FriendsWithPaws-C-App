@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHERIN</Machine>
+    <WindowsUser>Rena</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.exe">
+      <PackagePath>FriendsWithPaws.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.pdb">
+      <PackagePath>FriendsWithPaws.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\group_detail.PNG">
+      <PackagePath>Assets\group_detail.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Assets\wideLogo.PNG">
+      <PackagePath>Assets\wideLogo.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\group_detail.PNG">
+      <PackagePath>Images\group_detail.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Data\Dogs.txt">
+      <PackagePath>Data\Dogs.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_1.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_2.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_1.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_2.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_1.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_2.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_1.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_2.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane.jpg">
+      <PackagePath>Images\Large Breeds\greatDane.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_1.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_2.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_1.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_2.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_1.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_2.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_1.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_2.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_1.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_2.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_1.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_2.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_1.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_2.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_1.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_2.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle.jpg">
+      <PackagePath>Images\Small Breeds\beagle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_1.jpg">
+      <PackagePath>Images\Small Breeds\beagle_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_2.jpg">
+      <PackagePath>Images\Small Breeds\beagle_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund.jpg">
+      <PackagePath>Images\Small Breeds\dachshund.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_1.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_2.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug.jpg">
+      <PackagePath>Images\Small Breeds\pug.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_1.jpg">
+      <PackagePath>Images\Small Breeds\pug_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_2.jpg">
+      <PackagePath>Images\Small Breeds\pug_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="W:\CPP\VP2 Activities\vp2_work\Project files\FriendsWithPawsProject\FriendsWithPaws\FriendsWithPaws\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,392 @@
+﻿[ { "backgroundImage" : "images/Small Breeds/beagle_1.jpg",
+    "description" : "The Beagle is a breed of small to medium-sized dog. A member of the hound group, it is similar in appearance to the foxhound, but smaller with shorter legs and longer, softer ears. Beagles are scent hounds, developed primarily for tracking hare, rabbit, and other small game. They have a great sense of smell and tracking instinct that sees them employed as detection dogs for prohibited agricultural imports and foodstuffs in quarantine around the world. Beagles are intelligent, and popular pets because of their size, even temper, and lack of inherited health problems. Although beagle-type dogs have existed for over 2,000 years, the modern breed was developed in Great Britain around the 1830s from several breeds, including the Talbot Hound, the North Country Beagle, the Southern Hound, and possibly the Harrier. Beagles have been depicted in popular culture since Elizabethan times in literature and paintings, and more recently in film, television and comic books.",
+    "extraImages" : [ { "image" : "images/Fiction/Fiction_TheGreatgatsby2.jpg" },
+        { "image" : "images/Fiction/Fiction_PrideandPrejudice2.jpg" },
+        { "image" : "images/Fiction/Fiction_JaneEyre2.jpg" }
+      ],
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : ["Country of Origin: Great Britain",
+"Color: Tricolor or white in combination with black and tan and brown"      
+      ],
+    "key" : 1000,
+     "rating" : 4,
+    "shortTitle" : "Beagle",
+    "tileImage" : "images/Small Breeds/beagle_2.jpg",
+    "title" : "Beagle"
+  },
+
+
+  { "backgroundImage" : "images/Small Breeds/dachshund_1.jpg",
+    "description" : "The dachshund is a short-legged, long-bodied dog breed belonging to the hound family. The standard size dachshund was bred to scent, chase, and flush out badgers and other burrow-dwelling animals, while the miniature dachshund was developed to hunt smaller prey such as rabbits. In the American West they have also been used to hunt prairie dogs. Today, they are bred for conformation shows and as family pets. Some dachshunds participate in earthdog trials. According to the AKC, the dachshund continues to remain one of the top 10 dog breeds in the United States.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Germany",
+"Color: Dachshunds have a wide variety of colors and patterns"        
+      ],
+    "key" : 1001,
+    "rating" : 3,
+    "shortTitle" : "Dachshund",
+    "tileImage" : "images/Small Breeds/dachshund_2.jpg",
+    "title" : "Dachshund"
+  },
+
+
+
+  { "backgroundImage" : "images/Small Breeds/jackRussellTerrier_1.jpg",
+    "description" : "he Jack Russell Terrier is a small terrier that has its origins in fox hunting; it is principally white-bodied and smooth, rough or broken-coated. It is commonly confused with the Parson Russell terrier and the Russell terrier, which is a shorter-legged, stockier variety. The Jack Russell is a broad type, with a size range of 25–38 cm. The Parson Russell is limited only to a middle range with a standard size of 30–36 cm, while the Russell terrier is smaller at 20–30 cm. Each breed has different physical proportions according to the standards of their breed clubs. The Jack Russell is an energetic breed that relies on a high level of exercise and stimulation and is relatively free from serious health complaints. Originating from dogs bred and used by Reverend John Russell in the early 19th century, it has similar origins to the modern Fox terrier. It has gone through several changes over the years corresponding to different use and breed standards set by kennel clubs. Jack Russells have appeared many times in film, television and print with several historical dogs of note.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : [ "Country of Origin: England",
+"Color: The skin can sometimes show a pattern of small black or brown spots, that do not carry through to the outer coat." 
+              ],
+    "key" : 1002,
+    "rating" : 5,
+    "shortTitle" : "Jack Russell Terrier",
+    "tileImage" : "images/Small Breeds/jackRussellTerrier_2.jpg",
+    "title" : "Jack Russell Terrier"
+  },
+
+
+
+  { "backgroundImage" : "images/Small Breeds/pug_1.jpg",
+    "description" : "The pug is a toy dog with a wrinkly, short-muzzled face and curled tail. The breed has a fine, glossy coat that comes in a variety of colors, although most often fawn or black, and a compact square body with well-developed muscles. Pugs were brought from China to Europe in the sixteenth century and were popularized in Western Europe by the House of Orange of the Netherlands, and the House of Stuart. Pugs as breeding animals may have contributed to the English Bulldog, the modern Pekingese and the King Charles Spaniel. Pugs remain popular into the twenty-first century, with some famous celebrity owners. A pug was judged Best in Show at the World Dog Show in 2004.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : [ "Country of Origin: China",
+"Color: Their smooth and glossy coats can be fawn, apricot fawn, silver fawn, or black" 
+             ],
+    "key" : 1003,
+    "rating" : 4,
+    "shortTitle" : "Pug",
+    "tileImage" : "images/Small Breeds/pug_2.jpg",
+    "title" : "Pug"
+  },
+
+
+
+
+
+  { "backgroundImage" : "images/Small Breeds/westHighlandWhiteTerrier_1.jpg",
+    "description" : "The West Highland White Terrier, commonly known as the Westie or Westy, is a Scottish breed of dog with a distinctive white coat. The modern breed is descended from a number of breeding programs of white terriers in Scotland prior to the 20th century. Edward Donald Malcolm, 16th Laird of Poltalloch, is credited with the creation of the modern breed from his Poltalloch Terrier, but did not want to be known as such. Other related breeds included George Campbell, 8th Duke of Argyll's Roseneath Terrier and Dr. Americ Edwin Flaxman's Pittenweem Terriers. The breeds of small white Scottish terriers were given its modern name for the first time in 1908, with recognition by major kennel clubs occurring around the same time. The breed remains very popular in the UK and is in the top third of all breeds in the US since the 1960s. It has been featured in television and film including in Hamish Macbeth and in advertising by companies such as Cesar dog food and Scottish whisky Black & White. It is a medium-sized terrier, although with longer legs than other Scottish breeds of terrier. It has a white double coat of fur which fills out the dog's face giving it a rounded appearance. The breed can be good with children, but will not always tolerate rough handling. The Westie is an active breed, but are social with a high prey drive, as they were once used to hunt rodents. They are very energetic and need plenty of exercise.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : [  "Country of Origin: Scotland",
+"Color: White" 
+             ],
+    "key" : 1004,
+    "rating" : 3,
+    "shortTitle" : "West Highland White Terrier",
+    "tileImage" : "images/Small Breeds/westHighlandWhiteTerrier_2.jpg",
+    "title" : "West Highland White Terrier"
+  },
+
+
+
+
+
+  { "backgroundImage" : "images/Small Breeds/yorkshireTerrier_1.jpg",
+    "description" : "The Yorkshire Terrier is a small dog breed of terrier type, developed in the 19th century in the county of Yorkshire, England, to catch rats in clothing mills, also used for rat-baiting. The defining features of the breed are its maximum size of 3.2 kg and its gray, black, and tan coat. The breed is nicknamed Yorkie and is placed in the Toy Terrier section of the Terrier Group by the Fédération Cynologique Internationale and in the Toy Group or Companion Group by other kennel clubs, although all agree that the breed is a terrier. A popular companion dog, the Yorkshire Terrier has also been part of the development of other breeds, such as the Australian Silky Terrier.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "Generally a small dog is considered to weigh less than 22lbs or be shorter than 16 inches. Some of the small dog breeds on this site are much lighter or shorter than this and some are a little heavier or taller than this, but they are all small dogs nevertheless.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Small Breeds",
+        "shortTitle" : "Small Breeds",
+        "title" : "Small Breeds"
+      },
+    "breed_details" : [ "Country of Origin: England",
+"Color: From the back of the neck to the base of the tail, the coat should be a dark gray to a black colour, and the hair on the tail should be a darker black. On the head, high chest, and legs, the hair should be a bright, rich tan, darker at the roots than in the middle, that shades into a lighter tan at the tips, but not for all dogs." 
+              ],
+    "key" : 1005,
+    "rating" : 4,
+    "shortTitle" : "Yorkshire Terrier",
+    "tileImage" : "images/Small Breeds/yorkshireTerrier_2.jpg",
+    "title" : "Yorkshire Terrier"
+  },
+
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/australianShepherd_1.jpg",
+    "description" : "The Australian Shepherd, commonly known as the Aussie, is a breed of dog that was developed on ranches in the western United States. Despite its name, the breed was not developed in Australia, but rather in the United States where they were seen in the West as early as the 1800s. The breed rose gradually in popularity with the boom of western riding after World War I. They became known to the general public through rodeos, horse shows, and Disney movies made for television. For many years, Aussies have been valued by stockmen for their versatility and trainability. They have a similar look to the popular English Shepherd and Border Collie breeds. While they continue to work as stockdogs and compete in herding trials, the breed has earned recognition in other roles due to their trainability and eagerness to please, and are highly regarded for their skills in obedience. Like all working breeds, the Aussie has considerable energy and drive, and usually needs a job to do. It often excels at dog sports such as dog agility, flyball, and frisbee. They are also highly successful search and rescue dogs, disaster dogs, detection dogs, guide, service, and therapy dogs.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : [ "Country of Origin: United States",
+"Color: Tri-colored with black and red, bi-colored, blue merle or red merle" 
+      ],
+    "key" : 2000,
+    "rating" : 5,
+    "shortTitle" : "Australian Shepherd",
+    "tileImage" : "images/Medium Breeds/australianShepherd_2.jpg",
+    "title" : "Australian Shepherd"
+  },
+
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/bassetHound_1.jpg",
+    "description" : "The Basset Hound is a short-legged breed of dog of the hound family, as well as one of six recognized Basset breeds in France; furthermore, Bassets are scent hounds that were originally bred for the purpose of hunting rabbits and hare. Their sense of smell for tracking is second only to that of the Bloodhound. The name Basset is derived from the French word bas with the attenuating suffix -et, together meaning rather low. Basset Hounds are usually Bicolors or Tricolors of standard hound coloration.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : [ "Country of Origin: France",
+"Color: Generally black, white and tan or tan and white, but any recognized hound colour acceptable." 
+      ],
+    "key" : 2001,
+    "rating" : 5,
+    "shortTitle" : "Basset Hound",
+    "tileImage" : "images/Medium Breeds/bassetHound_2.jpg",
+    "title" : "Basset Hound"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/borderCollie_1.jpg",
+    "description" : "The Border Collie is a working and herding dog breed developed in the English-Scottish border region for herding livestock, especially sheep. It was specifically bred for intelligence and obedience. Ranked number one in Stanley Coren's The Intelligence of Dogs and typically extremely energetic, acrobatic, smart and athletic, they frequently compete with great success in dog sports, in addition to their success in sheepdog trials and are often cited as the most intelligent of all dogs. In January 2011, a Border Collie was reported to have learned 1,022 words and acts consequently to human citation of those words.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : [ "Country of Origin: United Kingdom",
+"Color: solid coloured, bicoloured or tricoloured on blue merle, red merle, chocolate merle, liver, lilac merle harlequin, chocolate, lilac, blue, sable merle, sable, shaded sable, chocolate sable, black, white, red, or brindle." 
+      ],
+    "key" : 2002,
+    "rating" : 4,
+    "shortTitle" : "Border Collie",
+    "tileImage" : "images/Medium Breeds/borderCollie_2.jpg",
+    "title" : "Border Collie"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/bulldog_1.jpg",
+    "description" : "Bulldog is the name for a breed of dog commonly referred to as the English Bulldog. Other Bulldog breeds include the American Bulldog, Old English Bulldog (now extinct), Olde English Bulldogge, and the French Bulldog. The Bulldog is a muscular, heavy dog with a wrinkled face and a distinctive pushed-in nose.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : [ "Country of Origin: England",
+"Color: Red, fawn, white, brindle, and piebald" 
+              ],
+    "key" : 2003,
+    "rating" : 4,
+    "shortTitle" : "Bulldog",
+    "tileImage" : "images/Medium Breeds/bulldog_2.jpg",
+    "title" : "Bulldog"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/sharPei_1.jpg",
+    "description" : "The Shar Pei, or Chinese Shar-Pei, is a breed of dog known for its distinctive features of deep wrinkles and a blue-black tongue. The breed comes from China. The name translates to sand skin and refers to the texture of its short, rough coat. As puppies, Shar Pei have numerous wrinkles, but as they mature, these wrinkles loosen and spread out. Shar Pei were named in 1978 as one of the world's rarest dog breeds by TIME magazine and the Guinness World Records.",
+     "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : [ "Country of Origin: China",
+"Color: red, red fawn, five-point red, black, black silver sables, black bronze sables, sables, cream, blue, brown, cream dilute, apricot dilute, chocolate, chocolate dilute, lilac, isabelle" 
+      ],
+    "key" : 2004,
+    "rating" : 5,
+    "shortTitle" : "Shar Pei",
+    "tileImage" : "images/Medium Breeds/sharPei_2.jpg",
+    "title" : "Shar Pei"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Medium Breeds/springerSpaniel_1.jpg",
+    "description" : "The English Springer Spaniel is a breed of gun dog in the Spaniel family traditionally used for flushing and retrieving game. It is an affectionate, excitable breed with an average lifespan of twelve to fourteen years. Descended from the Norfolk or Shropshire Spaniels of the mid-19th century, the breed has diverged into separate show and working lines. The breed suffers from average health complaints. It is closely related to the Welsh Springer Spaniel and very closely with the English Cocker Spaniel; less than a century ago, springers and cockers would come from the same litter. In 1902, the Kennel Club of England recognized the English Springer Spaniel as a distinct breed. They are used as sniffer dogs on a widespread basis.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There's nothing average about medium-sized dogs. These pups are not too big, nor too small, and include a wide variety of breeds.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Medium Breeds",
+        "shortTitle" : "Medium Breeds",
+        "title" : "Medium Breeds"
+      },
+    "breed_details" : ["Country of Origin: Great Britain",
+"Color: The coat comes in black or liver with white markings or predominantly white with black or liver markings. Tricolour: black and white or liver and white with tan markings." 
+            ],
+    "key" : 2005,
+    "rating" : 4,
+    "shortTitle" : "Springer Spaniel",
+    "tileImage" : "images/Medium Breeds/springerSpaniel_2.jpg",
+    "title" : "Springer Spaniel"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Large Breeds/dalmatian_1.jpg",
+    "description" : "The Dalmatian is a breed of dog named after the historical region of Dalmatia. The Dalmatian is noted for its unique black or liver spotted coat and was mainly used as a carriage dog in its early days. Today, this dog remains a well-loved family pet, and many dog enthusiasts enter their pets into kennel club competitions.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Croatia",
+"Color: Black or liver spots" 
+              ],
+    "key" : 3000,
+    "rating" : 5,
+    "shortTitle" : "Dalmatian",
+    "tileImage" : "images/Large Breeds/dalmatian_2.jpg",
+    "title" : "Dalmatian"
+  },
+
+{ "backgroundImage" : "images/Large Breeds/dobermanPinscher_1.jpg",
+    "description" : "The Doberman Pinscher (alternatively spelled Dobermann in many countries) or simply Doberman, is a breed of domestic dog originally developed around 1890 by Karl Friedrich Louis Dobermann, a tax collector from Germany. Doberman Pinschers are among the most common of pet breeds, and the breed is well known as an intelligent, alert, and loyal companion dog. Although once commonly used as guard dogs or police dogs, this is less common today. In many countries, Doberman Pinschers are often one of the most recognizable breeds, in part because of their actual roles in society, and in part because of media attention. Recent careful breeding has greatly improved the disposition of this breed, and the modern Doberman Pinscher is an energetic and lively breed suitable for companionship and family life. Although many Dobermans have been outdoor dogs, they are best suited to live indoors.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Germany",
+"Color: black, brown, red, blue, fawn, and white" 
+              ],
+    "key" : 3001,
+    "rating" : 5,
+    "shortTitle" : "Doberman Pinscher",
+    "tileImage" : "images/Large Breeds/dobermanPinscher_2.jpg",
+    "title" : "Doberman Pinscher"
+  },
+
+  { "backgroundImage" : "images/Large Breeds/germanShepherd_1.jpg",
+    "description" : "The German Shepherd Dog, known colloquially as the German Shepherd or simply the Shepherd and sometimes known as the Alsatian, is a relatively new breed of dog that originated in the 1890s in Germany where it has been known since its founding as the German Shepherd Dog. Under the guidance of the Society for German Shepherd Dogs founded in 1899, and its President until 1935, Max von Stephanitz, the breed consolidated its primary characteristics. Following World War I, it became one of the most popular breeds around the world. The breed was developed from shepherding dogs, and is classified in most Breed Standards under Herding Group, Pastoral Group, Working Group, etc. However, because of the German Shepherd Dog's strength, courage, intelligence and trainability, it has often been the preferred breed for many types of work including guide-dogs, personal-protection, search-and-rescue, police, military, and acting. Over the years, the breed has been criticised and, at times, fallen from favour because of issues related to temperament, health and physical structure. Nevertheless, in 2012, German Shepherd Dogs were the second-most popular dog in the United States and fourth-most popular in the United Kingdom.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Germany",
+"Color: Black and Tan, All Black, Grey" 
+              ],
+    "key" : 3002,
+    "rating" : 5,
+    "shortTitle" : "Gernam Shepherd",
+    "tileImage" : "images/Large Breeds/germanShepherd_2.jpg",
+    "title" : "Gernam Shepherd"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Large Breeds/goldenRetriever_1.jpg",
+    "description" : "The Golden Retriever is a large-sized breed of dog. They were bred as gun dogs to retrieve shot waterfowl such as ducks and upland game birds during hunting and shooting parties, and were named retriever because of their ability to retrieve shot game undamaged. Golden Retrievers have an instinctive love of water, and are easy to train to basic or advanced obedience standards. They are a long-coated breed, with a dense inner coat that provides them with adequate warmth in the outdoors, and an outer coat that lies flat against their bodies and repels water. Golden Retrievers are well suited to residency in suburban or country environments. Although they need substantial outdoor exercise, they should be housed in a fenced area because of their instinctual tendency to roam. The dog sheds copiously, particularly at the change of seasons, and requires fairly regular grooming. The breed is a prominent participant in conformation shows for purebred dogs. The Golden Retrievers' intelligence makes it a versatile breed and allows it to fill a variety of roles – common ones being guide dog for the blind, hearing dog for the deaf, hunting dog, detection dog, and search and rescue participant. The breed's friendly, gentle temperament means it is unsuited to being a professional guard dog, but its temperament has also made it the third most popular family dog breed (by registration) in the United States, the fifth most popular in Australia, and the eighth most popular in the United Kingdom. Golden Retrievers are rarely choosy eaters, but require ample exercise (of two or more hours a day). The breed is fond of play but also highly trainable. Augie, a Golden Retriever from Texas, holds the world record for the most tennis balls held in the mouth by a dog.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Scotland",
+"Color: Any shades of gold or cream" 
+             ],
+    "key" : 3003,
+    "rating" : 4,
+    "shortTitle" : "Golden Retriever",
+    "tileImage" : "images/Large Breeds/goldenRetriever_2.jpg",
+    "title" : "Golden Retriever"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Large Breeds/greatDane_1.jpg",
+    "description" : "The Great Dane is a German breed of domestic dog known for its giant size. The name of the breed in Germany is Deutsche Dogge (German Mastiff). They are known for their enormous bodies and great height. The Great Dane is one of the world's tallest dog breed. Their large size belies their friendly nature, as Great Danes are known for seeking physical affection with their owners.",
+      "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Germany",
+"Color: Fawn, Brindle, Blue, Black, Harlequin or Mantle" 
+              ],
+    "key" : 3004,
+    "rating" : 5,
+    "shortTitle" : "Great Dane",
+    "tileImage" : "images/Large Breeds/greatDane_2.jpg",
+    "title" : "Great Dane"
+  },
+
+
+
+
+  { "backgroundImage" : "images/Large Breeds/irishSetter_1.jpg",
+    "description" : "The Irish Setter, is a setter, a breed of gundog and family dog. The term Irish Setter is commonly used to encompass the show-bred dog recognised by the American Kennel Club as well as the field-bred Red Setter recognised by the Field Dog Stud Book.",
+    "group" : { "backgroundImage" : "images/group_detail.png",
+        "description" : "There are dogs and then there are DOGS. Large in both size and personality, these pups may require some extra muscle, but they're worth the effort. While these dogs may not vary much in size, they do have many differences when it comes to their appearance, personality, trainability, and historical background.",
+        "groupImage" : "images/group_detail.png",
+        "key" : "Large Breeds",
+        "shortTitle" : "Large Breeds",
+        "title" : "Large Breeds"
+      },
+    "breed_details" : [ "Country of Origin: Ireland",
+"Color: Red or Chestnut" 
+              ],
+    "key" : 3005,
+    "rating" : 4,
+    "shortTitle" : "Irish Seter",
+    "tileImage" : "images/Large Breeds/irishSetter_2.jpg",
+    "title" : "Itish Setter"
+  }
+  
+]
